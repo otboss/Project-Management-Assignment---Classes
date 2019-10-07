@@ -1,4 +1,3 @@
-
 class Location {
     public double xcoord;
     public double ycoord;

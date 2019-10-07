@@ -1,7 +1,5 @@
+class Pizza {
+    Pizza() {
 
-
-class Pizza{
-    Pizza(){
-        
     }
 }
