@@ -21,6 +21,7 @@ class Main {
                 menuSelection = Integer.parseInt(scanner.nextLine());
             } catch (Exception e) {
                 System.out.println("Exception occurred\n\n");
+                continue;
             }
             switch (menuSelection) {
             case 0:
