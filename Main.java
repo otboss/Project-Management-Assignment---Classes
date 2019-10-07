@@ -9,6 +9,7 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         // Program Loop
         while (true) {
+            Runtime.getRuntime().exec("cls; reset; clear;");
             System.out.printf("Pizza Delivered Quickly!\n\n");
             System.out.printf("=========\n");
             System.out.printf("Main Menu\n");
