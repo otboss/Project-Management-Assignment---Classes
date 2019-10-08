@@ -14,7 +14,7 @@ public abstract class Database {
      * The MongoClient class included from the mongodb driver jar file. Establishes
      * a connection to the mongo database server.
      */
-    private static MongoClient mongo = new MongoClient("localhost", 27017);
+    private static MongoClient mongo = new MongoClient("localhost", 27018);
 
     /**
      * An established connection to the mongo database.
