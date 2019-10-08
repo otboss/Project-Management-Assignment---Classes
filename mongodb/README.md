@@ -1,1 +1,0 @@
-This directory is a portable mongo database for storing all the software data.
